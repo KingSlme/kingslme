@@ -14,7 +14,7 @@
   
  🔭 I’m currently working on **A VR Game**
  
- 🌱 I’m currently learning **MonogDB, Express, React, Node**
+ 🌱 I’m currently learning **MonogDB, Express, React, and Node**
 
 💬 Ask me about **Unity and Game Development**
 
