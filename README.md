@@ -12,13 +12,13 @@
 <!-- 04 Status -->
 <div align="center">
   
- 🔭 I’m currently working on **A VR Game**
+ 🔭 I’m currently working on: **A VR Game**
  
- 🌱 I’m currently learning **MonogDB, Express, React, and Node**
+ 🌱 I’m currently learning: **MonogDB, Express, React, and Node**
 
-💬 Ask me about **Unity and Game Development**
+💬 Ask me about: **Unity and Game Development**
 
-⚡ Fun fact **Crows sometimes leave gifts for people that feed them**
+⚡ Fun fact: **Crows sometimes leave gifts for people that feed them**
 
  </div>
 
