@@ -44,13 +44,12 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kingslme/kingslme/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kingslme/kingslme/output/github-contribution-grid-snake.svg" /><br/>
 </div>
 
 <!-- 08 Stats -->
 <!--
+<br/><br/>
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
